@@ -1,0 +1,8 @@
+.vs/
+bin/
+env/
+library.pyproj
+library.sln
+.idea/
+__pycache__/
+*.pyc
